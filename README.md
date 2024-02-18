@@ -6,7 +6,7 @@
 
 <h2>click this link and showing your victim password </h2>
 <br>
-<a href="http://tinyurl.com/victim-password">victim</a>
+
 
 
 <p>http://tinyurl.com/victim-password</p>
